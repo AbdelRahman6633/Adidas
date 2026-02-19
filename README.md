@@ -2,7 +2,7 @@
 Adidas US Sales Dashboard
 # Adidas Sales Dashboard  
 تحليل مبيعات وأرباح Adidas في الولايات المتحدة
-[](dashboard.png)
+![](dashboard.png)
 
 ## نبذة عن المشروع
 
